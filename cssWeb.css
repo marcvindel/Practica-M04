@@ -40,6 +40,7 @@ ul {
   li a.active {
     color: white;
     background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   aside {
