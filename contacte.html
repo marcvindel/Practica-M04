@@ -9,18 +9,41 @@
     <body>
         <div class="divheader">
             <header class="header"> 
-                <img src="./img/header.png" alt="header" height="200px" width="100%"><!-- Has de mantenir aquesta mida per a quedi be -->
+                <img src="./img/header.png" alt="header" height="200px" width="100%">
             </header>
         </div>
         <div>
             <ul>
-                <li><a class="active" href="../index.html">Home</a></li>
-                <li><a href="./contacte.html">Contacte</a></li>
+                <li><a href="../index.html">Inici</a></li>
+                <li><a class="active" href="./contacte.html">Contacte</a></li>
                 <li><a href="./3.html">Clan Hyuga</a></li>
                 <li><a href="./4.html">Clan Uzumaki</a></li>
                 <li><a href="./5.html">Clan Uchiha</a></li>
                 <li><a href="./6.html">Clan Nara</a></li>
               </ul>
         </div>
+        <section id="contact">
+            <h2 id="centrar">Formulari de contacte</h2>
+            <form>
+        <label for="name">Nom:</label>
+        <input type="text" id="name" name="name" required>
+      
+        <label for="email">Correu electrònic:</label>
+        <input type="email" id="email" name="email" required>
+      
+        <label for="phone">Telèfon:</label>
+        <input type="tel" id="phone" name="phone">
+      
+        <label for="subject">Assumpte:</label>
+        <input type="text" id="subject" name="subject" required>
+      
+        <label for="message">Observacions:</label>
+        <textarea id="message" name="message"></textarea>
+      
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpiar">
+      </form>
+      
+          </section>
     </body>
 </html>
