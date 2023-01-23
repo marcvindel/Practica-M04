@@ -23,7 +23,6 @@ ul {
   
   li {
     float: left;
-    width: max-content;
   }
   
   li a {
@@ -49,10 +48,11 @@ ul {
     margin-left: 15px;
     float: right;
     font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: lightgray;
     text-align: center;
     margin-top: -70px;
-    height: 670px;
+    height: 720px;
   }
   
   #bordeMain{
@@ -103,6 +103,7 @@ ul {
   input[type="submit"],
   input[type="reset"] {
     background-color: #4CAF50;
+    margin-right: 5px;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -114,4 +115,14 @@ ul {
   #centrar{
     text-align: center;
     margin-top: 2%;
+  }
+  #floatLeft{
+    float: left;
+  }
+  #floatRight{
+    float: right;
+  }
+
+  .text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
