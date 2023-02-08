@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
 <channel>
@@ -7,7 +7,7 @@
   <description>RSS per la pràctica</description>
   <item>
     <title>Microsoft li declara la guerra a Google</title>
-    <link>https://www.abc.es/tecnologia/redes/microsoft-declara-guerra-google-anuncia-buscador-compatible-20230208091751-nt.htmll</link>
+    <link>https://www.abc.es/tecnologia/redes/microsoft-declara-guerra-google-anuncia-buscador-compatible-20230208091751-nt.html</link>
     <description>Primera entrada del RSS</description>
   </item>
   <item>
