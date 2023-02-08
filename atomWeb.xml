@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Web Marc</title>
+  <link href="https://marcvindel.github.io/Practica-M04/"/>
+  <updated>2023-02-08T22:00:00Z</updated>
+  <author>
+    <name>Marc Vindel</name>
+  </author>
+  <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+  <entry>
+    <title>Atom 1</title>
+    <link href="https://www.abc.es/tecnologia/redes/microsoft-declara-guerra-google-anuncia-buscador-compatible-20230208091751-nt.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2023-02-08T18:30:02Z</updated>
+    <summary>Primera entrada</summary>
+  </entry>
+  <entry>
+    <title>Atom 2</title>
+    <link href="https://elpais.com/espana/2023-02-08/los-ciberdelitos-aumentan-un-72-en-espana.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2023-02-08T18:30:02Z</updated>
+    <summary>Segona entrada</summary>
+  </entry>
+  <entry>
+    <title>Atom 3</title>
+    <link href="https://revistabyte.es/actualidad-it/cio-chatgpt/"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2023-02-08T18:30:02Z</updated>
+    <summary>Tercera entrada</summary>
+  </entry>
+</feed>
