@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Web Marc</title>
+  <link>https://marcvindel.github.io/Practica-M04/</link>
+  <description>RSS per la pràctica</description>
+  <item>
+    <title>Microsoft li declara la guerra a Google</title>
+    <link>https://www.abc.es/tecnologia/redes/microsoft-declara-guerra-google-anuncia-buscador-compatible-20230208091751-nt.htmll</link>
+    <description>Primera entrada del RSS</description>
+  </item>
+  <item>
+    <title>Los ciberdelitos aumentan un 72% en españa</title>
+    <link>https://elpais.com/espana/2023-02-08/los-ciberdelitos-aumentan-un-72-en-espana.html</link>
+    <description>Segona entrada del RSS</description>
+  </item>
+  <item>
+    <title>Puede CIO aprovecharse de ChatGPT?</title>
+    <link>https://revistabyte.es/actualidad-it/cio-chatgpt/</link>
+    <description>Tercera entrada del RSS</description>
+  </item>
+</channel>
+</rss>
